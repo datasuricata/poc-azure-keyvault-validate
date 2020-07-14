@@ -1,0 +1,1 @@
+Testando poc do azure keyvault, se você esta vendo este arquivo quer dizer que deu certo.
